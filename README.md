@@ -6,4 +6,4 @@ A game authoring environment that let users create, save, load, and play tower d
 
 [DEMO PRESENTATION](https://drive.google.com/open?id=1To-xAtRlV9e0cSQ_AogEugXytv57KDaiUk59px-w-bY)
 
-[PLANTS VS ZOMBIES DEMO VIDEO](DemoVids/PvZ_Anh.mp4)
+[PLANTS VS ZOMBIES DEMO VIDEO](https://drive.google.com/file/d/19Lj4nsQ6kAFuUIk1SPT08IhpBkQ9Wm4e/view?usp=sharing)
